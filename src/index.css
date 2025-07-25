@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
+/* Tamaño del carrusel */
+.swiper {
+  width: 100%;
+  padding-bottom: 40px;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+}

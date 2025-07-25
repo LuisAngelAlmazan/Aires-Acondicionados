@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Minisplit 1 Ton",
+    "image": "/minisplit1.png",
+    "description": "Ideal para habitaciones pequeñas."
+  },
+  {
+    "title": "Minisplit 2 Ton",
+    "image": "/minisplit2.png",
+    "description": "Perfecto para espacios medianos."
+  },
+  {
+    "title": "Minisplit Industrial",
+    "image": "/minisplit3.png",
+    "description": "Para instalaciones grandes o comerciales."
+  }
+]
