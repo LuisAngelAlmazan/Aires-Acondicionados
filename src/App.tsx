@@ -7,9 +7,6 @@ import FloatingWhatsAppButton from './components/WhatsAppButton'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 
-//<div className="min-h-screen bg-white text-gray-800 pt-14"> {/* 56px = 14 * 4px */}
-
-
 function App() {
   return (
     <div className="min-h-screen bg-white text-gray-800 pt-14">
