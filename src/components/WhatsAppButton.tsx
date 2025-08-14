@@ -5,7 +5,7 @@ const FloatingWhatsAppButton = () => {
   const message = encodeURIComponent(
     `Hola, estoy interesado en una cotización para minisplit. ¿Me puedes dar más información?`
   );
-  const phone = "5212281234567"; // Reemplaza con tu número real
+  const phone = "52218634820"; // Reemplaza con tu número real
 
   return (
     <a
