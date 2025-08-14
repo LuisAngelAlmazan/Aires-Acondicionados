@@ -84,7 +84,7 @@ const QuotationModal = ({ onClose }: QuotationModalProps) => {
 
     const encodedMessage = encodeURIComponent(message);
     // Cambia el número por el tuyo (sin signos ni espacios)
-    const phoneNumber = "5212281234567";
+    const phoneNumber = "5212218634820";
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
 
     window.open(whatsappURL, "_blank");
